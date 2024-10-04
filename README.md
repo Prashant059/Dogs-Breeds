@@ -53,7 +53,7 @@ http://localhost:3000
 
 ## Additional Assets
 The following additional assets are included in this project:
-- #Images: images/icons are stored in the /public directory.
+- Images: images/icons are stored in the /public directory.
 
 ## Code Structure
 Dog-Breeds
